@@ -21,7 +21,7 @@
                 <div class="card border-0">
                     <div class="card-body text-center">
                         <img src="public/images/team/shawn.png" class="w-100" alt="System Developer">
-                        <h3>Shawn Michael Inuza</h3>
+                        <h3>Shawn Michael Isunza</h3>
                         <p>Full-Stack Developer</p>
                     </div>
                 </div>
