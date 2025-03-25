@@ -107,17 +107,4 @@
 </section>
 <!-- Section Services End -->
 
-<!-- Section Contact Start -->
-<section id="s-contact">
-    <div class="container py-5">
-        <div class="text-center py-5">
-            <h4 class="text-uppercase">Contact</h4>
-            <p class="lead">We are always of service to all your needs.</p>
-        </div>
-    </div>
-</section>
-<!-- Section Contact End -->
-
-<iframe width="100%" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=125.06356358528137%2C8.851213409205862%2C125.0676727294922%2C8.854319509293138&amp;layer=mapnik&amp;marker=8.852766462527818%2C125.06561815738678" style="border: 1px solid black; margin-bottom: -10px"></iframe>
-
 <?php include realpath(__DIR__ . '/app/layout/footer.php') ?>

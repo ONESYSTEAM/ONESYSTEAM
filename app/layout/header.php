@@ -55,6 +55,8 @@ include(__DIR__ . '/../../config/db/connector.php');
         });
     </script>
 
+    <meta name="google-site-verification" content="UB0327ZluG5_q1WmBvOaSqO6zkP8oaVA8DQy5TTc1uc" />
+
 </head>
 
 <body>
@@ -105,9 +107,6 @@ include(__DIR__ . '/../../config/db/connector.php');
                             </li>
                             <li class="nav-item me-0 me-sm-4">
                                 <a class="nav-link px-4 px-sm-4" href="team">Team</a>
-                            </li>
-                            <li class="nav-item me-0 me-sm-4">
-                                <a class="nav-link px-4 px-sm-4" href="#">Contact</a>
                             </li>
                         </ul>
                     </div>

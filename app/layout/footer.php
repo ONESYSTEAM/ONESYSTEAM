@@ -1,3 +1,16 @@
+<!-- Section Contact Start -->
+<section id="s-contact">
+    <div class="container py-5">
+        <div class="text-center py-5">
+            <h4 class="text-uppercase">Contact</h4>
+            <p class="lead">We are always of service to all your needs.</p>
+        </div>
+    </div>
+</section>
+<!-- Section Contact End -->
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1971.1437650785754!2d125.06437509028858!3d8.852800526625952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwNTEnMTAuMCJOIDEyNcKwMDMnNTYuMyJF!5e0!3m2!1sen!2sph!4v1742889617404!5m2!1sen!2sph" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 <!-- Footer -->
 <div class="footer bg-custom-dark py-5">
     <div class="container py-2 py-sm-0">
