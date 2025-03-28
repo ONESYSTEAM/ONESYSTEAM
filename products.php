@@ -12,15 +12,10 @@
                 <div class="card border-0">
                     <div class="card-body">
                         <img src="public/images/products/p1.png" class="w-100" alt="Website Development">
-                        <a href="#" class="btn btn-outline-secondary rounded-pill text-uppercase w-100">Transak POS</a>
+                        <a href="https://www.facebook.com/profile.php?id=100063996854268" class="btn btn-outline-secondary rounded-pill text-uppercase w-100" target="_blank">Transak POS</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-lg-4"></div>
-            <div class="col-md-4 col-lg-4 py-2">
-                <a href="website-offline.html" class="btn bg-custom-red text-white rounded-pill text-uppercase w-100">View All Clients</a>
-            </div>
-            <div class="col-md-4 col-lg-4"></div>
         </div>
     </div>
 </section>

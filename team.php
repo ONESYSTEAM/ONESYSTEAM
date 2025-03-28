@@ -35,11 +35,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-lg-4"></div>
-            <div class="col-md-4 col-lg-4 py-2">
-                <a href="website-offline.html" class="btn bg-custom-red text-white rounded-pill text-uppercase w-100">View All Clients</a>
-            </div>
-            <div class="col-md-4 col-lg-4"></div>
         </div>
     </div>
 </section>
